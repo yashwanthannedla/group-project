@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<style>
+
+body {
+color: red;
+}
+h1 {
+color; black;
+}
+
+</style>
+</head>
+<body>
+<h1>Yashwanth Reddy Annedla - 12329567</h1><br>
+<h1>Abdul Awaiz Mohammed - 12324405</h1><br>
+
+<p><b>Network King Business</b></p><br>
+
+<button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()">
+Show date and time.</button>
+
+<p id="demo"></p>
+</body>
+</html>
